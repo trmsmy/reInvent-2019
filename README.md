@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## re:Invent 2019
 
-I  to attend AWS re:Invent conference 2019. I wanted to summarize my notes from the sessions & workshops, I have attended or collected.
+Notes and references that I gathered from re:Invent Conference 2019.
 
 ### Sessions
 
